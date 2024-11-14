@@ -6,8 +6,6 @@ categories: ["vim"]
 labels: ["english", "neovim", "tips"]
 ---
 
-##
-
 
 Let's explore a few different ways to run commands in our terminal from
 the comfort of neovim. Trust me, it's cooler than it sounds! 😎
