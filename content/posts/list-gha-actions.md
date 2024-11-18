@@ -8,6 +8,7 @@ draft: false
 
 ## List of Github action
 
+- https://github.com/astral-sh/setup-uv
 - https://github.com/googleapis/release-please
 - https://github.com/ncipollo/release-action
 - https://github.com/PaulHatch/semantic-version
