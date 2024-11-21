@@ -67,7 +67,7 @@ dev-dependencies = [
 to handle dev dependencies, now (`uv 0.5.4 (c62c83c37 2024-11-20)`) they
 replaced that in favor of dependency groups, becoming something like this:
 
-```
+```toml
 [dependency-groups]
 dev = [
     "pytest>=8.3.3",
