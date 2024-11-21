@@ -1,7 +1,7 @@
 ---
 title: "Exploring uv (python package manager)"
 date: 2024-11-21T17:33:03+01:00
-draft: true
+draft: false
 categories: ["programming"]
 labels: ["uv", "python", "english"]
 ---
