@@ -44,18 +44,18 @@ uv python install 3.11
 uv python pin 3.11
 ```
 
-> https://docs.astral.sh/uv/getting-started/features/
-> https://docs.astral.sh/uv/guides/projects/
-> https://docs.astral.sh/uv/concepts/python-versions/#adjusting-python-version-preferences
-> https://docs.astral.sh/uv/guides/integration/docker/
+Resources:
 
-### They move fast
+- https://docs.astral.sh/uv/getting-started/features/
+- https://docs.astral.sh/uv/guides/projects/
+- https://docs.astral.sh/uv/concepts/python-versions/#adjusting-python-version-preferences
+- https://docs.astral.sh/uv/guides/integration/docker/
+
+### They Move Fast and Stick to the Standard
 
 They have an amazing philosophy of using built-in Python tools. An example of
-this:
-
-Previously, they used the `[tool.uv]` table inside the `pyproject.toml` like
-this:
+this, previously, they used the `[tool.uv]` table inside the `pyproject.toml`
+like this:
 
 ```toml
 [tool.uv]
@@ -82,7 +82,7 @@ Do you realize how great this is? Before, you were only able to install dev
 dependencies using `uv`, but after the change, you can use whatever tool you
 want, as long as they are Python-compliant, like `pip`.
 
-### Upgrade just one dependency
+### How to Upgrade Only One Dependency
 
 > https://docs.astral.sh/uv/guides/projects/#managing-dependencies
 >
