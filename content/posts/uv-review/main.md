@@ -1,5 +1,5 @@
 ---
-title: "UV review"
+title: "Exploring uv (python package manager)"
 date: 2024-11-21T17:33:03+01:00
 draft: true
 categories: ["programming"]
@@ -51,10 +51,11 @@ uv python pin 3.11
 
 ### They move fast
 
-They have the amazing philosophy using built-in python tools, an example of
+They have an amazing philosophy of using built-in Python tools. An example of
 this:
 
-Before they used to use `[tool.uv]` table inside the `pyproject.toml` like this
+Previously, they used the `[tool.uv]` table inside the `pyproject.toml` like
+this:
 
 ```toml
 [tool.uv]
@@ -64,7 +65,7 @@ dev-dependencies = [
 ```
 
 to handle dev dependencies, now (`uv 0.5.4 (c62c83c37 2024-11-20)`) they
-replace that in favour of dependency-groups becoming to something like this:
+replaced that in favor of dependency groups, becoming something like this:
 
 ```
 [dependency-groups]
@@ -74,12 +75,12 @@ dev = [
 ```
 
 > [!NOTE]
-> PEP-735: dependency groups in pyproject.toml (in only 15 days)
+> `uv` adopted the PEP-735: dependency groups in pyproject.toml in only 15 days.
 > https://github.com/astral-sh/uv/issues/8090
 
-Do you realize how great is this? Before you only were able to install dev
-dependencies using `uv` but after the change you can use whatever tool you want
-if they are python-compliant like `pip`.
+Do you realize how great this is? Before, you were only able to install dev
+dependencies using `uv`, but after the change, you can use whatever tool you
+want, as long as they are Python-compliant, like `pip`.
 
 ### Upgrade just one dependency
 
@@ -114,17 +115,19 @@ You probably already have:
   - be sure you have a `requires-python` entry or `.python-version`
 - `requirements.txt`
 
-In that casea you can use:
+In that case, you can use:
 
 - `uv venv`
 - `uv pip install -r requirements.txt`
 - `source .venv/bin/activate`
 - `python -V`
 
-In case you wanto switch to pure `uv` management:
+In case you want to switch to pure `uv` management:
 
 - `uv add -r requirements.txt`
 - `git add uv.lock pyproject.toml`
+- `uv sync` from now on
+
 
 ## See Also
 
