@@ -10,24 +10,24 @@ labels: ["uv", "python", "english"]
 ## Quick data
 
 - Similar to `poetry` API
-- python complaint
-  - use `.python-version` like `pyenv`
-  - use `pyproject.toml` like `pip`
-  - use `.venv` as default
+- Python compliant
+  - Uses `.python-version` like `pyenv`
+  - Uses `pyproject.toml` like `pip`
+  - Uses `.venv` as default
 - `pyproject.toml` governed
-- `uv venv` equivalente to `python -m venv .venv`
+- `uv venv` equivalent to `python -m venv .venv`
 - `uv pip ...` equivalent to `pip ...`
 - Easy and quick installation
   - `curl -LsSf https://astral.sh/uv/install.sh | sh`
-  - upgrade with `uv self update`
+  - Upgrade with `uv self update`
 
 ### Development
 
 #### Common tasks we will find and use:
 
 - Minimal scaffolding
-- Manage venv / dependencies
-- Manage python versions
+- Manage venv/dependencies
+- Manage Python versions
 - Build distributions
 
 
