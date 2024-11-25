@@ -3,7 +3,7 @@ title: "uv: Quickstart"
 date: 2024-09-19
 draft: false
 categories: ["programming"]
-labels: ["english", "dependencies", "python", "rust"]
+labels: ["english", "dependencies", "python", "uv"]
 ---
 
 ## How to quickstart with uv
@@ -12,7 +12,8 @@ labels: ["english", "dependencies", "python", "rust"]
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 uv python install 3.10 3.11 3.12
-uv venv --python 3.12.0
+uv python pin 3.11
+uv venv
 uv pip install -r requirements.txt
 ```
 
