@@ -6,13 +6,6 @@ categories: ["programming"]
 labels: ["spanish", "counting", "indexing"]
 ---
 
-https://www.youtube.com/watch?v=T7WBIPSZ87g
-https://math.stackexchange.com/a/1096265
-https://en.wikipedia.org/wiki/Off-by-one_error
-https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/
-
-https://chatgpt.com/share/37e3d2f9-7fe0-479c-8378-24310b02bcdb
-
 
 Aquí unos argumentos de Dijkstra sobre empezar a contar en el cero:
 
@@ -45,5 +38,14 @@ Aquí unos argumentos de Dijkstra sobre empezar a contar en el cero:
 > a) and d). We conclude that convention a) is to be preferred.
 
 source: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
+
+
+Resources:
+
+- https://www.youtube.com/watch?v=T7WBIPSZ87g
+- https://math.stackexchange.com/a/1096265
+- https://en.wikipedia.org/wiki/Off-by-one_error
+- https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/
+- https://chatgpt.com/share/37e3d2f9-7fe0-479c-8378-24310b02bcdb
 
 
