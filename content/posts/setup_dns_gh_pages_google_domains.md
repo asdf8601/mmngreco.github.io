@@ -29,5 +29,5 @@ Summary
 1. Add a CNAME file (no sure if this is mandatory)
 1. Add DNS rules (A, CNAME and AAAA)
 1. Test it with dig
-   `$ dig mmngreco.dev +noall +answer -t A`
+   `$ dig asdf0x2199.dev +noall +answer -t A`
 

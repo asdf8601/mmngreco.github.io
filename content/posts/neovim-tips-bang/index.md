@@ -34,7 +34,7 @@ según tus preferencias:
 Aquí un ejemplo más detallado:
 
 ```vim
-:.!curl https://api.github.com/users/mmngreco
+:.!curl https://api.github.com/users/asdf0x2199
 ```
 
 Aquí, el buffer contendrá el contenido a partir de la línea actual:
@@ -42,27 +42,27 @@ Aquí, el buffer contendrá el contenido a partir de la línea actual:
 
 ```json
 {
-  "login": "mmngreco",
+  "login": "asdf0x2199",
   "id": 6231413,
   "node_id": "MDQ6VXNlcjYyMzE0MTM=",
   "avatar_url": "https://avatars.githubusercontent.com/u/6231413?v=4",
   "gravatar_id": "",
-  "url": "https://api.github.com/users/mmngreco",
-  "html_url": "https://github.com/mmngreco",
-  "followers_url": "https://api.github.com/users/mmngreco/followers",
-  "following_url": "https://api.github.com/users/mmngreco/following{/other_user}",
-  "gists_url": "https://api.github.com/users/mmngreco/gists{/gist_id}",
-  "starred_url": "https://api.github.com/users/mmngreco/starred{/owner}{/repo}",
-  "subscriptions_url": "https://api.github.com/users/mmngreco/subscriptions",
-  "organizations_url": "https://api.github.com/users/mmngreco/orgs",
-  "repos_url": "https://api.github.com/users/mmngreco/repos",
-  "events_url": "https://api.github.com/users/mmngreco/events{/privacy}",
-  "received_events_url": "https://api.github.com/users/mmngreco/received_events",
+  "url": "https://api.github.com/users/asdf0x2199",
+  "html_url": "https://github.com/asdf0x2199",
+  "followers_url": "https://api.github.com/users/asdf0x2199/followers",
+  "following_url": "https://api.github.com/users/asdf0x2199/following{/other_user}",
+  "gists_url": "https://api.github.com/users/asdf0x2199/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/asdf0x2199/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/asdf0x2199/subscriptions",
+  "organizations_url": "https://api.github.com/users/asdf0x2199/orgs",
+  "repos_url": "https://api.github.com/users/asdf0x2199/repos",
+  "events_url": "https://api.github.com/users/asdf0x2199/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/asdf0x2199/received_events",
   "type": "User",
   "site_admin": false,
   "name": "Maximiliano Greco",
   "company": "@seedtag",
-  "blog": "mmngreco.github.io",
+  "blog": "asdf0x2199.github.io",
   "location": "Madrid",
   "email": null,
   "hireable": true,
@@ -81,7 +81,7 @@ Aquí, el buffer contendrá el contenido a partir de la línea actual:
 Creatividad desatada: Tu imaginación es el límite.
 
 ```vim
-:.!curl https://api.github.com/users/mmngreco | jq '.type, .url'
+:.!curl https://api.github.com/users/asdf0x2199 | jq '.type, .url'
 ```
 
 

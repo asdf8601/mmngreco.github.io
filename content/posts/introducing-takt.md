@@ -42,4 +42,4 @@ do `pull`/`push` as if it were a git repository. We'll see how it evolves.
 
 
 <!-- Links -->
-[takt]: https://github.com/mmngreco/takt
+[takt]: https://github.com/asdf0x2199/takt

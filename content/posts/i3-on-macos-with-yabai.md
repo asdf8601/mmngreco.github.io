@@ -56,5 +56,5 @@ To ensure everything works correctly, you need to grant access to `skhd` and
 [skhd]: https://github.com/koekeishiya/skhd
 [yabai]: https://github.com/koekeishiya/yabai
 [wiki]: https://github.com/koekeishiya/yabai/wiki
-[yabairc]: https://github.com/mmngreco/dotfiles/blob/master/macos/home/.config/yabai/yabairc
+[yabairc]: https://github.com/asdf0x2199/dotfiles/blob/master/macos/home/.config/yabai/yabairc
 [medium]: https://anuj-chandra.medium.com/using-i3-like-tiling-window-managers-in-macos-with-yabai-ebf0e002b992

@@ -37,7 +37,7 @@ This is what the error looks like:
 
 ```bash
 $ uv init test
-Initialized project `test` at `/Users/mgreco/github.com/asdf8601/blog/test`
+Initialized project `test` at `/Users/mgreco/github.com/asdf0x2199/blog/test`
 $ cd test
 $ uv version
 uv 0.5.4 (c62c83c37 2024-11-20)

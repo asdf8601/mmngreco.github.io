@@ -272,7 +272,7 @@ Tiene varias mejoras:
 Lo he juntado todo en un proyecto de GitHub, podria ser usado con `pipx run`
 pero en mi caso tengo el script en mi `~/.local/bin/cx`.
 
-Repo: https://github.com/mmngreco/cx
+Repo: https://github.com/asdf0x2199/cx
 
 
 ## Demo

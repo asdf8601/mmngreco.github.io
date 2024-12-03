@@ -12,7 +12,7 @@ minimalistas, me encontré copiando y pegando con bastante frecuencia. Echaba de
 menos algo que me permitiera hacer este trabajo (que ya de por sí es bastante
 sencillo) aún más sencillo.
 
-[prev-post]: https://mmngreco.dev/posts/python-project-scratch/
+[prev-post]: https://asdf0x2199.dev/posts/python-project-scratch/
 
 ## Punto de entrada
 
@@ -45,7 +45,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "${name}"
 dynamic = ["version"]
-authors = [{name="Max Greco", email="mmngreco@gmail.com"}]
+authors = [{name="Max Greco", email="asdf0x2199@gmail.com"}]
 readme = "README.md"
 requires-python = ">=3.6"
 dependencies = ["rich", "typer", "pandas"]
@@ -71,7 +71,7 @@ Aquí una prueba de concepto. La idea es probar que el `curl` funciona y consigo
 reemplazar la variable con `sed`.
 
 ```bash
-$ name=yayay && curl -sSL https://gist.githubusercontent.com/mmngreco/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml  | sed "s/\${name}/${name}/g"
+$ name=yayay && curl -sSL https://gist.githubusercontent.com/asdf0x2199/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml  | sed "s/\${name}/${name}/g"
 [build-system]
 requires = ["setuptools>=60", "setuptools-scm>=8.0"]
 build-backend = "setuptools.build_meta"
@@ -79,7 +79,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "yayay"
 dynamic = ["version"]
-authors = [{name="Max Greco", email="mmngreco@gmail.com"}]
+authors = [{name="Max Greco", email="asdf0x2199@gmail.com"}]
 readme = "README.md"
 requires-python = ">=3.6"
 dependencies = ["rich", "typer", "pandas"]
@@ -108,8 +108,8 @@ py-here() {
     mkdir -p  ${name}/{tests,docs}
     touch ${name}/{Makefile,pyproject.toml,${name}.py}
     # you can always make the following steps optionals
-    curl -sSL https://gist.githubusercontent.com/mmngreco/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml  | sed "s/\${name}/${name}/g" > ${name}/pyproject.toml
-    curl -sSL https://gist.githubusercontent.com/mmngreco/2a371093fcb704fbff771e39479e75dc/raw/Makefile > ${name}/Makefile
+    curl -sSL https://gist.githubusercontent.com/asdf0x2199/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml  | sed "s/\${name}/${name}/g" > ${name}/pyproject.toml
+    curl -sSL https://gist.githubusercontent.com/asdf0x2199/2a371093fcb704fbff771e39479e75dc/raw/Makefile > ${name}/Makefile
     curl -L -s https://www.gitignore.io/api/python > ${name}/.gitignore
     cd ${name} && git init && git add . && git commit -m "add files"
 }
@@ -154,7 +154,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "newProject"
 dynamic = ["version"]
-authors = [{name="Max Greco", email="mmngreco@gmail.com"}]
+authors = [{name="Max Greco", email="asdf0x2199@gmail.com"}]
 readme = "README.md"
 requires-python = ">=3.6"
 dependencies = ["rich", "typer", "pandas"]
@@ -173,5 +173,5 @@ newProject = "newProject:app"
 Boom! Happy coding!
 
 
-[gist]: https://gist.githubusercontent.com/mmngreco/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml
-[make]: https://gist.githubusercontent.com/mmngreco/2a371093fcb704fbff771e39479e75dc/raw/Makefile
+[gist]: https://gist.githubusercontent.com/asdf0x2199/2a371093fcb704fbff771e39479e75dc/raw/pyproject.toml
+[make]: https://gist.githubusercontent.com/asdf0x2199/2a371093fcb704fbff771e39479e75dc/raw/Makefile

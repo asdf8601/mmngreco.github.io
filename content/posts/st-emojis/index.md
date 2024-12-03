@@ -56,7 +56,7 @@ Now check it out, open a new `st` instance and get a list of emojis from the
 gist:
 
 ```bash
-curl https://gist.githubusercontent.com/mmngreco/8c3dc2d6508eeaca8b3afcaf1d505269/raw/8d87d4f40b7fa6cb38e8413a8fad9e87984cd68e/emojis.txt
+curl https://gist.githubusercontent.com/asdf0x2199/8c3dc2d6508eeaca8b3afcaf1d505269/raw/8d87d4f40b7fa6cb38e8413a8fad9e87984cd68e/emojis.txt
 ```
 
 and there you go!

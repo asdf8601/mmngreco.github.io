@@ -177,7 +177,7 @@ file. It's all about trying out what works best for you.
 ## Bonus
 
 - https://github.com/KikeM/vinyasa
-- https://github.com/mmngreco/dex
+- https://github.com/asdf0x2199/dex
 
 
 ![](https://i.imgur.com/rm4VEDW.png)

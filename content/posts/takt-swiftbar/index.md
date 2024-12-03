@@ -9,7 +9,7 @@ labels: ["hacking", "time-tracker", "cli", "takt", "hacking", "time", "macos", "
 Hey there, fellow clicking enthusiasts!
 
 Today, I want to share this little trick I found out to make life a bit easier
-with [Takt](https://github.com/mmngreco/takt) on macOS. If you're like me and
+with [Takt](https://github.com/asdf0x2199/takt) on macOS. If you're like me and
 want a convenient button to check in and out of work while also seeing useful
 info about your hours, you're in for a treat.
 
@@ -49,7 +49,7 @@ Let’s jump straight into the script:
 # <xbar.title>Takt: time manager</xbar.title>
 # <xbar.version>v0.0</xbar.version>
 # <xbar.author>Max Greco</xbar.author>
-# <xbar.author.github>mmngreco</xbar.author.github>
+# <xbar.author.github>asdf0x2199</xbar.author.github>
 # <xbar.desc>Takt: track your time like a pro!</xbar.desc>
 # <xbar.image>???</xbar.image>
 # <xbar.dependencies>bash</xbar.dependencies>

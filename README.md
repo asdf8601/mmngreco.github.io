@@ -1,6 +1,6 @@
 # My Space
 
-- https://mmngreco.github.io/
+- https://asdf0x2199.github.io/
 
 References
 ----------
@@ -17,5 +17,5 @@ Commands
 - `hugo`
 - `git commit -a "update"`
 - `git push`
-- https://github.com/mmngreco/mmngreco.github.io/actions
+- https://github.com/asdf0x2199/asdf0x2199.github.io/actions
 

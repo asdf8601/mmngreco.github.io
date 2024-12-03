@@ -105,7 +105,7 @@ if __name__ == "__main__":
     args = cli.parse_args()
 
     one_month_ago = now.replace(month=args.month, day=1, hour=0, minute=0, second=0, microsecond=0)
-    posts = recent_articles("https://mmngreco.dev/rss", one_month_ago)
+    posts = recent_articles("https://asdf0x2199.dev/rss", one_month_ago)
     month_str = one_month_ago.strftime("%B")
     htmlfile = f"/tmp/newsletter-{month_str.lower()}.html"
 
@@ -270,5 +270,5 @@ j2 -D PYVER=3.10 -D NPVER=2.1.3 /tmp/script.tpl | uv run --python 3.10 -
 
 [thorsten]: https://thorstenball.com
 [substack]: https://thorstenball.com/register-spill/
-[pep723]: https://mmngreco.dev/posts/probando-pep-723/
-[pipx]: https://mmngreco.dev/posts/pipx-with-conda/
+[pep723]: https://asdf0x2199.dev/posts/probando-pep-723/
+[pipx]: https://asdf0x2199.dev/posts/pipx-with-conda/

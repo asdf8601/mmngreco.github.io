@@ -7,21 +7,21 @@
 
 [[socials]]
     id = "email"
-    url = "mailto:mmngreco@gmail.com"
+    url = "mailto:blog@mxm.mozmail.com"
     icon = "envelope"
     title = "Email"
     weight = 2
 
 [[socials]]
     id = "github"
-    url = "https://github.com/mmngreco"
+    url = "https://github.com/asdf8601"
     icon = "github"
     title = "GitHub"
     weight = 3
 
 [[socials]]
     id = "twitter"
-    url = "https://twitter.com/mmngreco"
+    url = "https://twitter.com/asdf0x2199"
     icon = "twitter"
     title = "Twitter"
     weight = 4

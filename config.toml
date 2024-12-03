@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://mmngreco.github.com/"
+baseURL = "https://asdf0x2199.github.com/"
 title = "WTFM"
 languageCode = "en"
 hasCJKLanguage = false
@@ -98,17 +98,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "asdf8601"
+    name = "asdf0x2199"
     # Email
-    email = "mmngreco@gmail.com"
+    email = "asdf0x2199@gmail.com"
     # Motto or introduction
     motto = "Actio, non verba."
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://mmngreco.dev"
+    website = "https://asdf0x2199.dev"
     # Twitter
-    twitter = "asdf8601"
+    twitter = "asdf0x2199"
 
 # Related content
 [related]
@@ -373,7 +373,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "asdf8601"
+    siteTwitter = "asdf0x2199"
     # Note: used for Twitter Cards
 
 
@@ -676,7 +676,7 @@ uglyURLs = false
 
     ## Disqus
     enableDisqus = false
-    disqusShortname = "mmngreco"
+    disqusShortname = "asdf0x2199"
 
     ## Valine
     enableValine = false
@@ -701,7 +701,7 @@ uglyURLs = false
 
     ## Utterances
     enableUtterances = true
-    utterancesRepo = "https://github.com/asdf8601/asdf8601.github.io"
+    utterancesRepo = "https://github.com/asdf0x2199/asdf0x2199.github.io"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"

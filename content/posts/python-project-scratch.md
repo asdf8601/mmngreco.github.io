@@ -62,7 +62,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "takt"
 dynamic = ["version"]
-authors = [{name="Max Greco", email="mmngreco@gmail.com"}]
+authors = [{name="Max Greco", email="asdf0x2199@gmail.com"}]
 readme = "README.md"
 requires-python = ">=3.6"
 dependencies = ["rich", "typer", "pandas"]
@@ -185,4 +185,4 @@ fix-requirements.txt:  ## fix requirements.txt using GH_TOKEN variable for priva
 
 [pep518]: https://peps.python.org/pep-0518/
 [pep440]: https://peps.python.org/pep-0440/
-[tatk]: https://github.com/mmngreco/takt
+[tatk]: https://github.com/asdf0x2199/takt

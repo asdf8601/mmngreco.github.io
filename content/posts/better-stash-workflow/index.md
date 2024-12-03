@@ -25,7 +25,7 @@ So, I've tried to streamline my workflow with a bash script:
 
 It was fun creating it, here is the script:
 
-[`fzf-stash`](https://github.com/mmngreco/dotfiles/blob/1b330ff87328993bf75e3a2f486f10a0e39a31ba/ubuntu/bin/fzf-stash)
+[`fzf-stash`](https://github.com/asdf0x2199/dotfiles/blob/1b330ff87328993bf75e3a2f486f10a0e39a31ba/ubuntu/bin/fzf-stash)
 
 ```
 1   #!/usr/bin/env bash

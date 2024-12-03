@@ -17,9 +17,9 @@ draft: false
 <!--     name: python3 -->
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mmngreco/mmngreco.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/asdf0x2199/asdf0x2199.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb)
 
-Podéis acceder al notebook [aquí](https://github.com/mmngreco/mmngreco.github.io-source/blob/master/content/downloads/notebooks/competencia.ipynb). También podéis ejecutar el notebook online [aquí](https://mybinder.org/v2/gh/mmngreco/mmngreco.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb) o desde el badge al inicio del post. Si veis cualquier error o sugerencia, se aceptan [PR](https://github.com/mmngreco/mmngreco.github.io-source/pulls)! ;-)
+Podéis acceder al notebook [aquí](https://github.com/asdf0x2199/asdf0x2199.github.io-source/blob/master/content/downloads/notebooks/competencia.ipynb). También podéis ejecutar el notebook online [aquí](https://mybinder.org/v2/gh/asdf0x2199/asdf0x2199.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb) o desde el badge al inicio del post. Si veis cualquier error o sugerencia, se aceptan [PR](https://github.com/asdf0x2199/asdf0x2199.github.io-source/pulls)! ;-)
 
 
 # Introducción
