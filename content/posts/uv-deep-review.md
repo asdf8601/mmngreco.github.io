@@ -96,9 +96,8 @@ want, as long as they are Python-compliant, like `pip`.
 >
 > To upgrade a package, run uv lock with the `--upgrade-package` flag:
 >
-> ```bash
-> uv lock --upgrade-package requests
-> ```
+>
+> `uv lock --upgrade-package requests`
 >
 > The `--upgrade-package` flag will attempt to update the specified package to
 > the latest compatible version, while keeping the rest of the lockfile intact.
@@ -149,6 +148,10 @@ dependencies:
 - `git add uv.lock pyproject.toml`
 - remove poetry tables from `pyproject.toml`
 
+
+{{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" >}}
+
+{{< iframe url="https://clips.twitch.tv/embed?clip=NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" >}}
 
 
 ## See Also

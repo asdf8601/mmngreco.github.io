@@ -1,0 +1,85 @@
+{{- /*
+Renders an embedded Twitch clip.
+
+@param {string} [id] The clip ID. Required if the id is not provided as the first positional argument.
+@param {string} [parent] The domain that hosts the iframe (e.g., "www.example.com"). Required.
+@param {int} [height=378] The height of the iframe in pixels.
+@param {int} [width=620] The width of the iframe in pixels.
+@param {string} [class] The class attribute of the wrapping div element. Optional.
+@param {string} [title] The title attribute of the iframe element.
+
+@returns {template.HTML}
+
+@example {{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" parent="www.example.com" >}}
+@example {{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" parent="www.example.com" height=400 width=700 >}}
+*/}}
+
+{{- /* Initialize default values */ -}}
+{{- $id := "" -}}
+{{- $parent := "" -}}
+{{- $height := 378 -}}
+{{- $width := 620 -}}
+{{- $class := "" -}}
+{{- $title := "Twitch clip" -}}
+
+{{- /* Handle named parameters */ -}}
+{{- if .IsNamedParams }}
+  {{- $id = .Get "id" -}}
+  {{- $parent = .Get "parent" -}}
+  {{- $height = .Get "height" | default 378 -}}
+  {{- $width = .Get "width" | default 620 -}}
+  {{- $class = .Get "class" | default "" -}}
+  {{- $title = .Get "title" | default "Twitch clip" -}}
+{{- else if .IsSet 0 }}
+  {{- /* Handle positional arguments */ -}}
+  {{- $id = .Get 0 -}}
+  {{- $parent = .Get 1 | default "" -}}
+{{- end }}
+
+{{- /* Validate required parameters */ -}}
+{{- if eq $id "" }}
+  {{- errorf "The %q shortcode requires an 'id' parameter. See %s" .Name .Position }}
+{{- end }}
+{{- if eq $parent "mmngreco.dev" }}
+  {{- warnf "The %q shortcode is using the default 'localhost' parent. Set the 'parent' parameter in production. See %s" .Name .Position }}
+{{- end }}
+
+{{- /* Set iframe styles */ -}}
+{{- $divStyle := "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;" -}}
+{{- $iframeStyle := "position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" -}}
+{{- if $class }}
+  {{- $iframeStyle = "" -}}
+{{- end }}
+
+{{- /* Set div attributes */ -}}
+{{- $divClassOrStyle := printf "style=%q" $divStyle -}}
+{{- with $class }}
+  {{- $divClassOrStyle = printf "class=%q" $class }}
+{{- end }}
+
+{{- /* Construct iframe URL */ -}}
+{{- $src := printf "https://clips.twitch.tv/embed?clip=%s&parent=%s" $id $parent -}}
+
+{{- /* Set iframe attributes */ -}}
+{{- $iframeAttributes := dict
+    "src" $src
+    "height" $height
+    "width" $width
+    "frameborder" "0"
+    "allowfullscreen" "true"
+    "scrolling" "no"
+    "style" $iframeStyle
+    "title" $title
+-}}
+
+{{- /* Render iframe */ -}}
+<div {{ $divClassOrStyle | safeHTMLAttr }}>
+  <iframe
+    {{- range $k, $v := $iframeAttributes }}
+      {{- if $v }}
+        {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+      {{- end }}
+    {{- end }}
+  ></iframe>
+</div>
+
