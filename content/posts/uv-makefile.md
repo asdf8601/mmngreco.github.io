@@ -1,5 +1,5 @@
 ---
-title: "Makefile uv based"
+title: "Makefile based on uv"
 date: 2024-11-25
 draft: false
 categories: ["programming"]
