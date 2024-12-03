@@ -149,9 +149,8 @@ dependencies:
 - remove poetry tables from `pyproject.toml`
 
 
-{{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" >}}
-
-{{< iframe url="https://clips.twitch.tv/embed?clip=NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" >}}
+<!-- {{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" >}} -->
+<!-- {{< iframe url="https://clips.twitch.tv/embed?clip=NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" >}} -->
 
 ## See Also
 
