@@ -1,5 +1,5 @@
 ---
-title: "Exploring uv (python package manager)"
+title: "UV Review: The Quirkiest Python Package Manager Around"
 date: 2024-11-21T17:33:03+01:00
 draft: false
 categories: ["programming"]
@@ -147,11 +147,6 @@ dependencies:
 - `uv add -dev -r requirements-dev.txt`
 - `git add uv.lock pyproject.toml`
 - remove poetry tables from `pyproject.toml`
-
-
-{{< twitch id="NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW" >}}
-
-{{< iframe url="https://clips.twitch.tv/embed?clip=NimbleYawningRadicchioUnSane-7Z44l2Gx0ca9CGaW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" >}}
 
 
 ## See Also
