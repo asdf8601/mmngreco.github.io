@@ -268,6 +268,7 @@ j2 -D PYVER=3.10 -D NPVER=2.1.3 /tmp/script.tpl | uv run --python 3.10 -
 ```
 
 
-[thorsten]: https://thorstenball.com/register-spill/
+[thorsten]: https://thorstenball.com
+[substack]: https://thorstenball.com/register-spill/
 [pep723]: https://mmngreco.dev/posts/probando-pep-723/
 [pipx]: https://mmngreco.dev/posts/pipx-with-conda/
