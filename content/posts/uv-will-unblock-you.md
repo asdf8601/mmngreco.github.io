@@ -188,6 +188,21 @@ since it plays [badly on macOS][pipx].
 
 `uv` is mind-blowing; it works beautifully on Mac and Linux.
 
+### Share Like a Boss
+
+It gives you an awesome way to share scripts and (venvs) all packed in one neat
+file. Picture this: you whip up a little code, slap on the dependencies, toss
+it into a GitHub gist, share it, and then run:
+
+```bash
+$ uv run https://gist.githubusercontent.com/asdf8601/aeb6d3b894bfcb52aed7d8ff1edaa7f5/raw/hello-world.py
+Reading inline script metadata from remote URL
+hello, world from my gist!
+```
+
+Boom! Magic!
+
+
 ## Extra
 
 And let's wrap it up with one last cheeky note. It also lets you play around
