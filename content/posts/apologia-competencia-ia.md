@@ -16,7 +16,7 @@ de tomarlo, porque es bueno para nosotros. ¿Qué tipo de persona quieres ser?
 ¿[Tomarás la píldora roja o la píldora azul?][pills]
 
 
-# Socrates sobre la IA
+## Socrates sobre la IA
 
 En el diálogo [Fedro][fedro] de Platón (274c-275b), Sócrates narra el mito de Theuth
 y Thamus, donde el rey egipcio Thamus critica la invención de la escritura
