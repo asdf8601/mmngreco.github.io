@@ -1,8 +1,8 @@
 ---
-title: "La apología de la competencia en la era de la IA"
+title: "Una apología sobre la competencia en la era de la IA"
 date: 2025-04-05
 draft: false
-categories: ["ia"]
+categories: ["ai"]
 labels: ["philosophy", "spanish"]
 ---
 
@@ -50,13 +50,13 @@ Son, sin duda, interesantes las ideas de Platón. Creo que estaríamos todos de
 acuerdo en que sin la escritura, el conocimiento no avanzaría igual de rápido.
 Hay tanto contenido ahí fuera, tantas personas pensando y aportando que si no
 fuera por sus escritos nos costaría mucho más avanzar y profundizar en los
-conocimientos de la humanidad _a hombros de gigantes_ [^1].
+conocimientos de la humanidad _a hombros de gigantes_ [^hombros].
 
 ¿No es impresionante cómo este diálogo puede trasladarse perfectamente a
 nuestros días y a la aparición de la IA, y cómo esos mismos argumentos son
 aplicables hoy en día? El desafío, a mi parecer, es adoptar la IA sin
 perjuicio para nosotros. ¿Cómo podemos ser más competentes en contraposición con
-hacer más [^2] o aparentar saber más [^3]?
+hacer más [^hacer] o aparentar saber más [^saber]?
 
 ## Construir competencia
 
@@ -87,12 +87,12 @@ cierto nivel de destreza en ellas. Es entonces cuando nos gustaría poder
 saltarnos el trámite y pasar directamente a la novedad, a lo que nos parece más
 interesante.
 
-La IA nos pone en bandeja esto que antes era impensable. Ahora, podemos
-corregir la gramática, traducir texto, generar títulos, sinónimos con solo un
-prompt. No estoy diciendo que no debamos usar la IA para estas cosas, no, sino
-que digo que no es gratis, cuanto más tiempo nos ahorramos menos trabajamos esas
-conexiones y lo que antes era aburrido, quizá, en el peor de los casos tengas
-que reaprenderlo.
+La IA nos tiensa una alfombra roja para estos usos que antes era impensable.
+Ahora, podemos corregir la gramática, traducir texto, generar títulos,
+sinónimos con solo un prompt. No digo que no debamos usar la IA para estas
+cosas, sino más bien que _nada es gratis_ [^gratis]: cuanto más tiempo nos
+ahorramos, menos trabajamos esas conexiones y lo que antes era aburrido, quizá,
+en el peor de los casos, tengas que reaprenderlo.
 
 Es, también, más fácil dar la apariencia de que sabemos más de lo que en
 realidad sabemos: podemos superar pruebas técnicas, hacer redacciones en 5
@@ -118,7 +118,7 @@ mente nos lanza mensajes intrusivos que nos hacen preguntarnos sobre la
 utilidad de lo que estamos haciendo. Esto unido al convencimiento de que la
 terea es trivial y podria hacerla cualquier nos hace viajar fuera del presente
 e imaginarnos haciendo algo mucho mas agradable y estimulante como irnos de
-vacaciones [^4].
+vacaciones [^wander].
 
 {{< youtube T9UqMEFamQ4 >}}
 
@@ -150,7 +150,7 @@ La primera idea que me viene a la cabeza es el ayuno de IA o consumo
 restringido de IA. No está del todo claro todavía, pero existe evidencia que
 apunta a que la ingesta de comida activa ciertos sistemas en el cuerpo que,
 cuando permanecen activos durante mucho tiempo, resultan perjudiciales a largo
-plazo [^5].
+plazo [^ayuno].
 
 Todos estaremos de acuerdon en que comer es bueno y saludable; sin
 embargo, dependiendo del tipo de alimento, la cantidad y la frecuencia, esto
@@ -182,8 +182,17 @@ elaborar ejemplos para explicar un concepto o idea. Continúa usando la IA, pero
 de vez en cuando realiza estas tareas por ti mismo para no perder esa conexión
 mental y mantener tu destreza en tareas menos interesantes.
 
+### Solo tareas sencillas
 
-## Conclusion
+Una recomendación adicional es preguntar por cosas sencillas y simples, evita
+resolver cosas complejas. La probabilidad de obtener un resultado que no es el
+que esperas crece exponencialmente con la complejidad de la tarea que le estás
+pidiendo. Imagina que tienes un minion a tu cargo, no sabe lo que hace pero es
+capaz de seguir instrucciones claras y directas aunque se equivoca fácilmente.
+Esto son buenas noticias para nosotros ya que nos "deja" encargarnos de la
+parte central, de resolver problemas complejos y tener una visión global.
+
+## Conclusión
 
 Para terminar, creo que esta cita del Fedro es un buen resumen:
 
@@ -198,27 +207,35 @@ Para terminar, creo que esta cita del Fedro es un buen resumen:
 > Sócrates a Fedro, en "Fedro" de Platón, 277a
 
 
-[^1]: Una referencia a Chartre: https://es.wikipedia.org/wiki/A_hombros_de_gigantes
+[^gratis]: Nada es gratis o en inglés "There Ain't No Such Thing As A Free
+    Lunch" (TANSTAAFL): https://es.wikipedia.org/wiki/TANSTAAFL
 
-[^2]: Aquí están implícitas las ideas de Cal Newport desarrolladas en su libro
-     ["Slow Productivity"].
+[^hombros]: Una referencia a Chartres o Newton, autores que ponen en valor las
+    contribuciones pasadas en los avances de hoy:
+    https://es.wikipedia.org/wiki/A_hombros_de_gigantes
 
-[^3]: La apariencia de sabiduría que aparece en la obra de Platón critica a
+[^hacer]: Aquí están implícitas las ideas de Cal Newport desarrolladas en su libro
+     "Slow Productivity". Donde defiende la idea como aumentar tu productividad
+     a largo plazo.
+
+[^saber]: La apariencia de sabiduría que aparece en la obra de Platón critica a
     los sofistas que se aprovechan de esto en su propio beneficio. Pero también
     puede verse como una falta de confianza en uno mismo y/o de transparencia con
     el resto del mundo.
 
-[^4]: Esta es la idea del paper [_A wandering mind is an unhappy mind_][mind]
+[^wander]: Esta es la idea del paper _A wandering mind is an unhappy mind
     que plantea que una mente que está vagando y, por tanto, está desconectada
     del presente, es una mente que estará disconforme con el presente. Esto
     tiene sentido porque cualquier cosa que te imagines será mejor que lo que
     estás haciendo. Sin embargo, cuando tu mente está en el presente y, por
     tanto, estás mental y físicamente alineado, es más probable que seas feliz.
+    fuente: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/
 
-[^5]: Algunos papers sobre los beneficios del ayuno y la alimentación en
+[^ayuno]: Algunos papers sobre los beneficios del ayuno y la alimentación en
     ventanas temporales (TRE) son:
     https://www.biorxiv.org/content/10.1101/2020.09.14.296368v2.full
     https://pubmed.ncbi.nlm.nih.gov/27304506/
+
 
 
 [fedro]: https://es.wikipedia.org/wiki/Fedro
