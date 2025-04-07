@@ -3,7 +3,7 @@ title: "Using i3 WM on MacOS with Yabai and Skhd"
 date: 2023-08-25
 draft: false
 categories: ["programming"]
-labels: ["hacking", "i3", "macos", "yabai", "wm", "window-manager"]
+labels: ["macos", "wm"]
 ---
 
 ## Transitioning from Linux to MacOS
