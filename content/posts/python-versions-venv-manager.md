@@ -2,8 +2,8 @@
 title: "Python versions and venv manager"
 date: 2024-07-18T11:47:22+02:00
 draft: false
-categories: ["devlopment"]
-labels: ["english", "python", "venv"]
+categories: ["programming"]
+labels: ["english", "python", "project"]
 ---
 
 
