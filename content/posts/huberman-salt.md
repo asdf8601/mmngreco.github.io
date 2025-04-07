@@ -3,7 +3,7 @@ title: "Huberman Sobre la Sal"
 date: 2023-04-14T13:51:46Z
 draft: false
 categories: ['health']
-tags: ['health', 'science', 'huberman', 'summary', 'salt']
+tags: ['huberman', 'salt' ]
 ---
 
 ## Cómo la Sal Afecta Nuestra Salud y Rendimiento
