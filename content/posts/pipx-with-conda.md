@@ -3,7 +3,7 @@ title: "Implementando pipx con conda en macOS"
 date: 2024-03-30
 draft: false
 categories: ["programming" ]
-labels: ["spanish", "python", "pipx", "conda", "macos" ]
+tags: ["spanish", "python", "pipx", "conda", "macos" ]
 ---
 
 ## Contexto

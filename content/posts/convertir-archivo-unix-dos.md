@@ -2,8 +2,8 @@
 title: "Cambiando el formato de un arhivo."
 date: 2024-04-13
 draft: false
-categories: ["programming"]
-labels: [ "unix", "dos", "neovim", "bash", "scp" ]
+categories: ['programming']
+tags: ['unix', 'neovim', 'bash', 'scp']
 ---
 
 Me encontraba trabajando tranquilamente cuando tuve la necesidad de copiar un

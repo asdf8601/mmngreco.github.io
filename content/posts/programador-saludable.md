@@ -3,7 +3,7 @@ title: "Como ser un programador Longevo"
 date: 2024-01-20
 draft: false
 categories: ["programming"]
-labels: ["hacking", "thoughts"]
+tags: ["hacking", "thoughts"]
 ---
 
 

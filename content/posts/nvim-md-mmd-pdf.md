@@ -3,7 +3,7 @@ title: "Markdown preview PDF friendly"
 date: 2024-05-09
 draft: false
 categories: ["programming"]
-labels: ["nvim", "markdown", "pdf"]
+tags: ["nvim", "markdown", "pdf"]
 ---
 
 # How to print a PDF

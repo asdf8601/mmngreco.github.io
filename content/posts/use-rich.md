@@ -3,7 +3,7 @@ title: "Have you heard of rich?"
 date: 2023-08-20
 draft: false
 categories: ["programming"]
-labels: ["hacking", "rich", "hack", "python", "console", "terminal"]
+tags: ["hacking", "rich", "hack", "python", "console", "terminal"]
 ---
 
 ## Have you heard of rich?

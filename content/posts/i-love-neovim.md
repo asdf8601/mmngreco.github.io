@@ -4,7 +4,7 @@ date: 2023-09-23T18:58:21+02:00
 draft: true
 date: 2023-09-23
 categories: ["programming"]
-labels: ["hacking","spanish", "neovim"]
+tags: ["hacking","spanish", "neovim"]
 ---
 
 ## Por que usar Neovim

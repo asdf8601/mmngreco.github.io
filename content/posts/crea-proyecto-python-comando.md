@@ -3,7 +3,7 @@ title: "Crea projectos python minimalistas con un comando"
 date: 2024-02-25
 draft: false
 categories: ["programming"]
-labels: ["python", "programming", "spanish"]
+tags: ["python", "programming", "spanish"]
 ---
 
 

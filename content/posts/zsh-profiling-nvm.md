@@ -3,7 +3,7 @@ title: "Optimización de zsh y nvm en macOS"
 date: 2024-02-02
 draft: false
 categories: ["programming"]
-labels: ["macOS", "nvm", "zsh", "profiling", "spanish"]
+tags: ["macOS", "nvm", "zsh", "profiling", "spanish"]
 ---
 
 ## Haciendo profiling de zsh

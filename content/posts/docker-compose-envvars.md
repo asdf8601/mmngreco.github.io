@@ -3,7 +3,7 @@ title: "Docker Compose Env Var Adventures"
 date: 2024-09-19
 draft: false
 categories: ["programming"]
-labels: ["english", "docker", "envvars"]
+tags: ["english", "docker", "envvars"]
 ---
 
 Let's dive into the world of Docker Compose and environment variables, where

@@ -3,7 +3,7 @@ title: "Reviewing UV: The Quirkiest Python Package Manager Ever"
 date: 2024-11-21T17:33:03+01:00
 draft: false
 categories: ["programming"]
-labels: ["uv", "python", "english"]
+tags: ["uv", "python", "english"]
 ---
 
 

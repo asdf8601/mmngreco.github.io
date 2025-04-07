@@ -3,7 +3,7 @@ title: "uv: Quickstart"
 date: 2024-09-19
 draft: false
 categories: ["programming"]
-labels: ["english", "dependencies", "python", "uv"]
+tags: ["english", "dependencies", "python", "uv"]
 ---
 
 ## How to quickstart with uv

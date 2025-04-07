@@ -3,7 +3,7 @@ title: "Acelerando la repeticion de teclas en MacOS"
 date: 2024-02-03
 draft: false
 categories: ["programming"]
-labels: ['macos', 'hacking', 'spanish', 'keyboard', 'keys']
+tags: ['macos', 'hacking', 'spanish', 'keyboard', 'keys']
 ---
 
 

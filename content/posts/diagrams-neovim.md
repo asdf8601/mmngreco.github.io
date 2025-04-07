@@ -3,7 +3,7 @@ title: "Diagramas en NeoVim made easy"
 date: 2024-03-30
 draft: false
 categories: ["programming"]
-labels: ["spanish", "diagrams", "neovim", "dot", "ascii", "python"]
+tags: ["spanish", "diagrams", "neovim", "dot", "ascii", "python"]
 ---
 
 

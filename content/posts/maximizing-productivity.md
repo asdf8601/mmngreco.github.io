@@ -3,7 +3,7 @@ title: "Maximizing productivity, physical and mental health"
 date: 2023-03-24T14:59:14+01:00
 draft: false
 categories: ["health"]
-labels: ["huberman", "health", "productivity"]
+tags: ["huberman", "health", "productivity"]
 ---
 
 <!-- Title: Maximizing productivity, physical and mental health -->

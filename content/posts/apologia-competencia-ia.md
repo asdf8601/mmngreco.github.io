@@ -3,7 +3,7 @@ title: "Una apología sobre la competencia en la era de la IA"
 date: 2025-04-05
 draft: false
 categories: ["ai"]
-labels: ["philosophy", "spanish"]
+tags: ["philosophy", "spanish"]
 ---
 
 ¿Quién creéis que tiene más experiencia vital, una persona que ha afrontado

@@ -3,7 +3,7 @@ title: "Cambiando el Explorador Predeterminado en Linux"
 date: 2024-01-29
 draft: false
 categories: ["programming"]
-labels: ["file-manager", "thunar", "linux", "ubuntu", "howto", "spanish"]
+tags: ["file-manager", "thunar", "linux", "ubuntu", "howto", "spanish"]
 ---
 
 ### Usando el archivo `.desktop`

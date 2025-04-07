@@ -3,7 +3,7 @@ title: "I Wish I Had a Simple Calculator in My Bash"
 date: 2024-11-25T20:26:21+01:00
 draft: false
 categories: ["programming"]
-labels: ["bash", "functions"]
+tags: ["bash", "functions"]
 ---
 
 

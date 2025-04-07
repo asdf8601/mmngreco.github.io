@@ -3,7 +3,7 @@ title: "UV is Shaking Up the Production Game"
 date: 2024-12-03
 draft: false
 categories: ["programming"]
-labels: ["english", "uv"]
+tags: ["english", "uv"]
 ---
 
 I'm diving headfirst into using `uv` in my daily grind to be more efficient in

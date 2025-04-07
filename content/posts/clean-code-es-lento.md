@@ -3,7 +3,7 @@ title: "Clean code es horriblemente lento"
 date: 2023-03-24T14:59:14+01:00
 draft: false
 categories: ["programming"]
-labels: ["good-practices", "patterns", "spanish"]
+tags: ["good-practices", "patterns", "spanish"]
 ---
 
 <!-- Title: Clean code es lento -->

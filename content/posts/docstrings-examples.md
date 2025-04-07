@@ -3,7 +3,7 @@ title: "Y si empezamos documentando los ejemplos"
 date: 2023-09-23
 draft: false
 categories: ["programming"]
-labels: ["spanish", "docstring"]
+tags: ["spanish", "docstring"]
 ---
 
 ## Comienza con Ejemplos

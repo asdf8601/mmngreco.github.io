@@ -3,7 +3,7 @@ title: "Vim: Comando Bang!"
 date: 2024-03-10
 draft: false
 categories: ["vim"]
-labels: ["programming", "neovim", "spanish"]
+tags: ["programming", "neovim", "spanish"]
 ---
 
 ## Explora el comando bang

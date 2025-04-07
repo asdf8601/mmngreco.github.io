@@ -3,7 +3,7 @@ title: "Create a Button for Takt on macOS"
 date: 2024-07-19T08:38:25+02:00
 draft: false
 categories: ["programming", "takt"]
-labels: ["hacking", "time-tracker", "cli", "takt", "hacking", "time", "macos", "productivity", "time-management"]
+tags: ["hacking", "time-tracker", "cli", "takt", "hacking", "time", "macos", "productivity", "time-management"]
 ---
 
 Hey there, fellow clicking enthusiasts!

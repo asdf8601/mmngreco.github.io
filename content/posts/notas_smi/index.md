@@ -3,7 +3,7 @@ title: "Notas sobre el SMI"
 date: 2013-12-20
 draft: false
 categories: ["economics"]
-labels: ["wage"]
+tags: ["wage"]
 ---
 
 <!-- Title: Notas sobre el SMI -->

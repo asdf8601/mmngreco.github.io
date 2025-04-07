@@ -3,7 +3,7 @@ title: "Creating Custom Keybindings in i3 for ChatGPT CLI"
 date: 2023-08-24
 draft: false
 categories: ["programming"]
-labels: ["hacking", "i3", "Keybindings", "ChatGPT", "CLI", "Linux"]
+tags: ["hacking", "i3", "Keybindings", "ChatGPT", "CLI", "Linux"]
 ---
 
 ## Context

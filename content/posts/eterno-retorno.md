@@ -3,7 +3,7 @@ title: "Reflexiones sobre el Eterno retorno"
 date: 2024-04-07
 draft: false
 categories: ["philosophy"]
-labels: ["spanish", "nietzsche", "amor-fati", "sartre", "moral"]
+tags: ["spanish", "nietzsche", "amor-fati", "sartre", "moral"]
 ---
 
 ## Conociendo al Eterno Retorno

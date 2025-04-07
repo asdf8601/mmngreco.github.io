@@ -3,7 +3,7 @@ title: "Fencepost problem"
 date: 2024-05-19
 draft: true
 categories: ["programming"]
-labels: ["spanish", "counting", "indexing"]
+tags: ["spanish", "counting", "indexing"]
 ---
 
 
@@ -39,6 +39,7 @@ Aquí unos argumentos de Dijkstra sobre empezar a contar en el cero:
 
 source: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
 
+{{< youtube T7WBIPSZ87g >}}
 
 Resources:
 

@@ -3,7 +3,7 @@ title: "Makefile based on uv"
 date: 2024-11-25
 draft: false
 categories: ["programming"]
-labels: ["english", "uv", "makefile"]
+tags: ["english", "uv", "makefile"]
 ---
 
 Hey there! 👋

@@ -3,7 +3,7 @@ title: "Explorando pdb++"
 date: 2023-09-03
 draft: false
 categories: ["programming"]
-labels: ["Python", "pdbpp", "Debugging", "Spanish", "Hacking"]
+tags: ["Python", "pdbpp", "Debugging", "Spanish", "Hacking"]
 
 ---
 

@@ -3,7 +3,7 @@ title: "I don't like macos for programming"
 date: 2024-01-20
 draft: True
 categories: ["programming"]
-labels: ["OS", "macos", "thoughts"]
+tags: ["OS", "macos", "thoughts"]
 ---
 
 

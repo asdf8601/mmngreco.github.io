@@ -3,7 +3,7 @@ title: "Makefile"
 date: 2024-09-19
 draft: false
 categories: ["programming"]
-labels: ["spanish", "makefile", "python"]
+tags: ["spanish", "makefile", "python"]
 ---
 
 

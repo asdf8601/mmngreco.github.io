@@ -3,7 +3,7 @@ title: "La Ley de Hofstadter: ¿Por qué los Programadores Nunca Terminan a Tiem
 date: 2023-08-31
 draft: false
 categories: ["programming"]
-labels: ["Hofstadter's Law", "Time", "Programming", "Spanish"]
+tags: ["Hofstadter's Law", "Time", "Programming", "Spanish"]
 ---
 
 ## Contexto

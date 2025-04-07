@@ -3,7 +3,7 @@ title: "Vim Tips: Running Commands"
 date: 2024-11-14T18:21:57+01:00
 draft: false
 categories: ["vim"]
-labels: ["english", "neovim", "tips"]
+tags: ["english", "neovim", "tips"]
 ---
 
 
