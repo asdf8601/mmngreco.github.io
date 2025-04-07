@@ -207,23 +207,23 @@ Para terminar, creo que esta cita del Fedro es un buen resumen:
 > Sócrates a Fedro, en "Fedro" de Platón, 277a
 
 
-[^gratis]: Nada es gratis o en inglés "There Ain't No Such Thing As A Free
-    Lunch" (TANSTAAFL): https://es.wikipedia.org/wiki/TANSTAAFL
+[^gratis]: Nada es gratis o en inglés _"There Ain't No Such Thing As A Free
+    Lunch"_ (TANSTAAFL): https://es.wikipedia.org/wiki/TANSTAAFL
 
 [^hombros]: Una referencia a Chartres o Newton, autores que ponen en valor las
     contribuciones pasadas en los avances de hoy:
     https://es.wikipedia.org/wiki/A_hombros_de_gigantes
 
-[^hacer]: Aquí están implícitas las ideas de Cal Newport desarrolladas en su libro
-     "Slow Productivity". Donde defiende la idea como aumentar tu productividad
-     a largo plazo.
+[^hacer]: Aquí están implícitas las ideas de Cal Newport desarrolladas en su
+    libro _"Slow Productivity"_, donde defiende ideas sobre cómo aumentar tu
+    productividad a largo plazo de forma saludable.
 
 [^saber]: La apariencia de sabiduría que aparece en la obra de Platón critica a
     los sofistas que se aprovechan de esto en su propio beneficio. Pero también
     puede verse como una falta de confianza en uno mismo y/o de transparencia con
     el resto del mundo.
 
-[^wander]: Esta es la idea del paper _A wandering mind is an unhappy mind
+[^wander]: Esta es la idea del paper _"A wandering mind is an unhappy mind"_
     que plantea que una mente que está vagando y, por tanto, está desconectada
     del presente, es una mente que estará disconforme con el presente. Esto
     tiene sentido porque cualquier cosa que te imagines será mejor que lo que
