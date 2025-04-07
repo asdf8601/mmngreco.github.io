@@ -2,7 +2,7 @@
 title: "I found and issue on uv: llvmlite"
 date: 2024-11-25T19:03:00+01:00
 draft: false
-categories: ["prgramming"]
+categories: ["programming"]
 lables: ["english", "uv", "python"]
 ---
 

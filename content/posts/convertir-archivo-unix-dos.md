@@ -2,8 +2,8 @@
 title: "Cambiando el formato de un arhivo."
 date: 2024-04-13
 draft: false
-categories: [ "development", "programming", "troubleshooting" ]
-labels: [ "unix", "dos", "file transfer", "neovim", "bash scripting", "scp command" ]
+categories: ["programming"]
+labels: [ "unix", "dos", "neovim", "bash", "scp" ]
 ---
 
 Me encontraba trabajando tranquilamente cuando tuve la necesidad de copiar un
@@ -13,13 +13,12 @@ este error:
 
 
 ```bash
-$ noti bash ./file.sh
+$ bash ./file.sh
 ./file.sh: line 2: $'\r': command not found
  ")60)) * 5rror: invalid arithmetic operator (error token is "
 ./file.sh: line 6: $'\r': command not found
 ./file.sh: line 7: syntax error near unexpected token `$'{\r''
 '/file.sh: line 7: `show_progress() {
-noti: exit status 2
 ```
 
 
