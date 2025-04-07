@@ -17,9 +17,6 @@ Ingredients
 - Github pages
 - Google domains
 
-Here's the step by step video:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rKz6kIW4Uos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Summary
 -------
