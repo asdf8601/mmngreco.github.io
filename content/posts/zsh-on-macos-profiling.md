@@ -1,5 +1,5 @@
 ---
-title: "optimizing zsh on macos"
+title: "Optimizing zsh on macos"
 date: 2024-12-22T19:03:00+01:00
 draft: false
 categories: ["prgramming"]
