@@ -12,7 +12,7 @@ the comfort of neovim. Trust me, it's cooler than it sounds! 😎
 
 Here's a list of commands that I use all the time (and you should too!).
 
-```bash
+```bash{linenos=false}
 # run a command
 :!sh <cmd>
 
@@ -48,7 +48,7 @@ use this neat little trick to get things done quickly. Plus, it's super handy
 when you want to format text using other tools too like sql queries!
 
 
-```vim
+```vim{linenos=false}
      1 ls
     >2 ls
      ~
@@ -60,7 +60,7 @@ when you want to format text using other tools too like sql queries!
 
 And check out what happens:
 
-```vim
+```vim{linenos=false}
      1 ls
      2 Makefile
      3 README.md
@@ -95,7 +95,7 @@ Let's see another example where I want to peek at the output without messing up
 what's already in my buffer (because hey, sometimes we just want to look, not
 touch! 😉)
 
-```vim
+```vim{linenos=false}
      1 ls
      ~
      ~
