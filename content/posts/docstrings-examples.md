@@ -2,7 +2,7 @@
 title: "Y si empezamos documentando los ejemplos"
 date: 2023-09-23
 draft: false
-categories: ["devlopment"]
+categories: ["programming"]
 labels: ["spanish", "docstring"]
 ---
 
