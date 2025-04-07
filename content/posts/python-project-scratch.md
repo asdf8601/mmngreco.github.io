@@ -3,7 +3,7 @@ title: "Guía sencilla para iniciar un proyecto Python desde cero"
 date: 2024-01-26
 draft: false
 categories: ["programming"]
-tags: ["python", "pyproject", "build", "dependencies"]
+tags: ["python", "project"]
 ---
 
 Mira esta ejemplo de cómo configurar un proyecto Python con lo esencial para
