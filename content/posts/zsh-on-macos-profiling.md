@@ -13,7 +13,6 @@ prompt. It's super annoying!
 I profiled using
 
 ```zsh
-
 if [ -n "${ZSH_DEBUGRC+1}" ]; then
     zmodload zsh/zprof
 fi
@@ -26,8 +25,17 @@ fi
 ```
 
 
+To make it easier I've added this alias:
+
 ```zsh
-$ time ZSH_DEBUGRC=1 zsh -i -c exit
+alias zperf='time ZSH_DEBUGRC=1 zsh -i -c exit'
+```
+
+## Profiling
+
+
+```zsh
+$ zperf
 num  calls                time                       self            name
 -----------------------------------------------------------------------------------
  1)    1          36.73    36.73   26.10%     36.73    36.73   26.10%  autoenv_init
@@ -244,13 +252,14 @@ BTW, I've never had this issue on Linux.
 I Hate you MacOS (written on MacOS)
 
 
-### Update 2025-04-07
+## Update 2025-04-07
 
 After some more iterations, I decided to get rid of oh-my-zsh and all my custom
 functions (addToPath, addToMyGitProjects, ...) as well,
 and now it flies!
 
 ```
+$ zperf
 num  calls                time                       self            name
 -----------------------------------------------------------------------------------
 ZSH_DEBUGRC=1 zsh -i -c exit  0.01s user 0.02s system 66% cpu 0.049 total
