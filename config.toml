@@ -1459,6 +1459,11 @@ uglyURLs = false
 
 
     ######################################
+    # Custom CSS
+    
+    enableCustomCSS = true
+    
+    ######################################
     # Customize host for third-party libraries
 
     [params.lib]
