@@ -114,7 +114,9 @@ estimulante pensar en estos términos.
 [^catharsis]: https://en.wikipedia.org/wiki/Catharsis
 [^poetica]: https://es.wikipedia.org/wiki/Po%C3%A9tica_(Arist%C3%B3teles)
 [^kant]: https://en.wikipedia.org/wiki/Observations_on_the_Feeling_of_the_Beautiful_and_Sublime
-[^tecne]: https://plato.stanford.edu/entries/episteme-techne/#Aris
+[^techne]: https://en.wikipedia.org/wiki/Techne
+[^phronesis]: https://en.wikipedia.org/wiki/Phronesis
+<!-- [^techne]: https://plato.stanford.edu/entries/episteme-techne/#Aris -->
 
 
 <!--
